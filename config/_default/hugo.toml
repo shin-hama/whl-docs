@@ -1,5 +1,5 @@
 title = "Highlighter"
-baseurl = "/"
+baseurl = "https://shin-hama.github.io/whl-docs/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
